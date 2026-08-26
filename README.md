@@ -122,8 +122,8 @@ git clone https://github.com/marames25/Laptop-Price-Prediction.git
 cd Laptop-Price-Prediction
 
 python -m venv venv
-```
-```
+
+
 
 ### Windows
 
