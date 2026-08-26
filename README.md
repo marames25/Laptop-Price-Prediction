@@ -119,9 +119,6 @@ Feature importance is also analyzed using the **Gradient Boosting** model.
 
 ```bash
 git clone https://github.com/marames25/Laptop-Price-Prediction.git
-```
-
-```bash
 cd Laptop-Price-Prediction
 ```
 
