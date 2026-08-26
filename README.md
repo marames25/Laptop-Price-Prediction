@@ -123,6 +123,7 @@ cd Laptop-Price-Prediction
 
 python -m venv venv
 ```
+```
 
 ### Windows
 
